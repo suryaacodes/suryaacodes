@@ -4,17 +4,17 @@
 <h3 align="left">A Little About Me</h3>
 <p align="left">
 I’m <b>Suryateja</b>, an <b>Applied Generative AI Engineer</b> who builds <b>LLM-powered systems designed to run in production</b>.
-My work focuses on taking Generative AI beyond demos — designing systems that are <b>reliable, observable, scalable, and cost-aware</b> under real-world traffic and constraints.
+My work focuses on taking Generative AI beyond demos, designing systems that are <b>reliable, observable, scalable, and cost-aware</b> under real-world traffic and constraints.
 </p>
 
 <p align="left">
 I specialize in <b>production-grade GenAI systems</b>, including <b>Retrieval-Augmented Generation (RAG), LLM orchestration, evaluation pipelines, and fine-tuning</b>.
-I care deeply about retrieval quality, hallucination reduction, and measurable performance — because in production, AI systems need to be <b>debuggable and predictable</b>, not just impressive.
+I care deeply about retrieval quality, hallucination reduction, and measurable performance, because in production, AI systems need to be <b>debuggable and predictable</b>, not just impressive.
 </p>
 
 <p align="left">
 Alongside GenAI, I bring a strong foundation in <b>backend and distributed systems engineering</b>.
-This allows me to embed AI into real platforms with <b>clear SLAs, monitoring, failure handling, and scalability</b> — the unglamorous but critical parts of AI engineering that make systems usable in the real world.
+This allows me to embed AI into real platforms with <b>clear SLAs, monitoring, failure handling, and scalability</b>, the unglamorous but critical parts of AI engineering that make systems usable in the real world.
 </p>
 
 <p align="left">
